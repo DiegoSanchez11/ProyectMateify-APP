@@ -1,0 +1,19 @@
+.box__home-bottom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.home__button{
+    display: flex;
+    justify-content: center;
+}
+
+.home__paragraph-bottom{
+    display: flex;
+    justify-content: center;
+}
+
+.home__link-footer{
+    text-decoration: none;
+}

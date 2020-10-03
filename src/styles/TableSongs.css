@@ -1,0 +1,17 @@
+.button_functions{
+    margin: 10px;
+}
+.button_div{
+    display: flex;
+    justify-content: space-around;
+}
+.table_header{
+    background: lightseagreen;
+}
+div{
+    text-align: center;
+}
+.list_title{
+    background-color: lightseagreen;
+    width: 100%;
+}

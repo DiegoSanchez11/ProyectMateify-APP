@@ -1,0 +1,51 @@
+*{
+    margin: 0;  
+}
+  
+.MuiGrid-container {
+    width: 100%;
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+
+.div_box-page{
+      width: 100%;
+}
+  
+
+  
+
+.div__header{
+      background: lightgreen;
+      width: 100%;
+}
+  
+  
+.App {
+      text-align: center;
+      border: 3px solid #000000;
+      border-radius: 10px;
+  }
+  
+  .button_class{
+        width: 70px;
+  }
+    
+  .Button {
+      margin-top: 30px;
+  }
+    
+  .Usuario {   
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  
+  .div_buttons{
+      background: lightgrey;
+  }
+  
+ 
+  

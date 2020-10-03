@@ -1,0 +1,9 @@
+.AppBar__toolbar{
+    display: flex;
+    justify-content: center;
+    width: 150vh;
+}
+
+.logo{
+    content: url('../logo/mateifyLogo.png');
+}
