@@ -1,23 +1,18 @@
-.button_functions{
-    height: 20px;
+.list_title{
+    text-align: center;
+}
+.table_box{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 .button_div{
     display: flex;
     justify-content: space-around;
-    align-items: center;
-    background-color: lightseagreen;
-    height: 50px;
+
 }
 .table_header{
-    background-color: lightseagreen;
-    width: 100%;
-}
-.table_button-view{
     display: flex;
     justify-content: center;
-    align-items: center;
-}
-.list_title{
-    background-color: lightseagreen;
-    width: 100%;
+    flex-direction: column;
 }

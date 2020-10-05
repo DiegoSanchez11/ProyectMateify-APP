@@ -1,17 +1,24 @@
-.button_functions{
-    margin: 10px;
+.list_title{
+    text-align: center;
+    background-color: lightgreen;
+}
+.table_box{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 .button_div{
     display: flex;
     justify-content: space-around;
+    margin: 30px;
+
 }
 .table_header{
-    background: lightseagreen;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
-div{
-    text-align: center;
-}
-.list_title{
-    background-color: lightseagreen;
-    width: 100%;
+.box_table{
+    margin-top: 40px;
+    border: 1px solid lightgreen;
 }

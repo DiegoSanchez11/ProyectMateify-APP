@@ -1,9 +1,11 @@
 .AppBar__toolbar{
     display: flex;
     justify-content: center;
-    width: 150vh;
 }
 
 .logo{
     content: url('../logo/mateifyLogo.png');
+}
+.box_table{
+    margin-top: 40px;
 }
